@@ -6,9 +6,13 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-matplotlib = "*"
 numpy = "*"
-sklearn = "*"
+scipy = "*"
+scikit-learn = "*"
+matplotlib = "*"
+jupyter = "*"
+pytest = "*"
+pandas = "*"
 xgboost = "*"
 
 [requires]
